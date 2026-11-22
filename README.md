@@ -145,23 +145,23 @@ The README links below will display them once those files are added.
 
 **Scene overview**
 
-![Home office overview](scene-photos/scene_overview.jpg)
+![Home office overview](scene-photos/scene_overview.png)
 
 **Desktop and smartphone**
 
-![Desktop and smartphone close-up](scene-photos/desk_closeup.jpg)
+![Desktop and smartphone close-up](scene-photos/desk_closeup.png)
 
 **Tablet**
 
-![Tablet with cracked screen](scene-photos/couch_tablet.jpg)
+![Tablet with cracked screen](scene-photos/couch_tablet.png)
 
 **Amazon Echo**
 
-![Amazon Echo on bookshelf](scene-photos/bookshelf_echo.jpg)
+![Amazon Echo on bookshelf](scene-photos/bookshelf_echo.png)
 
 **USB flash drive**
 
-![USB flash drive in desk drawer](scene-photos/drawer_usb.jpg)
+![USB flash drive in desk drawer](scene-photos/drawer_usb.png)
 
 ---
 
