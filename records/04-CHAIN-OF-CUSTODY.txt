@@ -1,0 +1,87 @@
+DIGITAL FORENSICS TRAINING CASE
+Case Number: 2025-03847
+Scenario: Residential burglary - home office
+Reported loss: Approximately $15,000
+Original simulated scene date: 2025-03-16
+Prepared by: learner
+Recreated: 2026-11-22 15:13:31
+Status: TRAINING SIMULATION - NOT REAL EVIDENCE
+
+
+SIMULATED CHAIN OF CUSTODY
+
+
+ITEM: E-001
+Description: Desktop computer
+Serial Number: Not visible without manipulation
+Collection Date: 2025-03-16
+Collection Time: Not independently verified
+Collected By: learner (simulated)
+Location Found: Home office desk
+Condition: No damage documented
+Initial Hash: N/A, to be computed upon forensic imaging
+
+
+ITEM: E-002
+Description: Smartphone
+Serial Number: Not visible without manipulation
+Collection Date: 2025-03-16
+Collection Time: Not independently verified
+Collected By: learner (simulated)
+Location Found: On desk next to keyboard
+Condition: No damage documented
+Initial Hash: N/A, to be computed upon forensic imaging
+
+
+ITEM: E-003
+Description: Tablet
+Serial Number: Not visible without manipulation
+Collection Date: 2025-03-16
+Collection Time: Not independently verified
+Collected By: learner (simulated)
+Location Found: Couch in adjacent sitting area
+Condition: Cracked screen
+Initial Hash: N/A, to be computed upon forensic imaging
+
+
+ITEM: E-004
+Description: Amazon Echo smart speaker
+Serial Number: Not visible without manipulation
+Collection Date: 2025-03-16
+Collection Time: Not independently verified
+Collected By: learner (simulated)
+Location Found: Bookshelf across from desk
+Condition: No damage documented
+Initial Hash: N/A, to be computed upon forensic imaging
+
+
+ITEM: E-005
+Description: USB flash drive labelled Backup 2024
+Serial Number: Not visible without manipulation
+Collection Date: 2025-03-16
+Collection Time: Not independently verified
+Collected By: learner (simulated)
+Location Found: Top desk drawer beneath papers
+Condition: No damage documented
+Initial Hash: N/A, to be computed upon forensic imaging
+
+
+SIMULATED TRANSFERS - ITEM E-001 ONLY
+
+Transfer 1
+Released by: learner - First Responder
+Received by: FE-Smith - Forensic Examiner
+Date/Time: 2026-11-22 15:43
+Purpose: Live RAM acquisition and forensic hard-drive imaging
+Status: SIMULATED; NOT AN ACTUAL TRANSFER
+
+Transfer 2
+Released by: FE-Smith - Forensic Examiner
+Received by: EC-Johnson - Evidence Custodian
+Date/Time: 2026-11-22 17:43
+Purpose: Secure long-term evidence locker storage after imaging
+Status: SIMULATED; NOT AN ACTUAL TRANSFER
+
+Log maintained by: learner
+IMPORTANT: These dates are exercise timestamps, not historical
+custody records from the original 2025 scene.

@@ -1,0 +1,20 @@
+DIGITAL FORENSICS TRAINING CASE
+Case Number: 2025-03847
+Scenario: Residential burglary - home office
+Reported loss: Approximately $15,000
+Original simulated scene date: 2025-03-16
+Prepared by: learner
+Recreated: 2026-11-22 15:13:31
+Status: TRAINING SIMULATION - NOT REAL EVIDENCE
+
+CASE OBJECTIVE
+Identify digital evidence sources, assess volatility, document
+device conditions, preserve potential evidence and maintain
+a simulated chain of custody.
+
+SOURCE LIMITATIONS
+Recreated from the lab instructions and screenshots.
+Original complete scene report and original filled templates
+were not exported. Unverified details are identified as such.
+No actual device collection, RAM acquisition, forensic imaging
+or physical custody transfer occurred.

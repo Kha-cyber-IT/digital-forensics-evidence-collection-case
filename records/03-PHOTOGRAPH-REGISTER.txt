@@ -1,0 +1,56 @@
+DIGITAL FORENSICS TRAINING CASE
+Case Number: 2025-03847
+Scenario: Residential burglary - home office
+Reported loss: Approximately $15,000
+Original simulated scene date: 2025-03-16
+Prepared by: learner
+Recreated: 2026-11-22 15:13:31
+Status: TRAINING SIMULATION - NOT REAL EVIDENCE
+
+
+SCENE PHOTOGRAPH REGISTER
+
+
+Photograph: scene_overview.jpg
+Evidence items: E-001, E-002, E-003, E-004, E-005
+Caption: Overall home office and adjacent sitting area showing relative positions of all five identified evidence sources before collection.
+Original scene photo date: 2025-03-16
+Reconstruction timestamp: 2026-11-22 15:13:31
+Original photograph timestamp: Not independently verified
+Photograph status: Awaiting original image file
+
+
+Photograph: desk_closeup.jpg
+Evidence items: E-001, E-002, E-005
+Caption: Desk close-up showing the active desktop spreadsheet, locked smartphone and USB drawer area; preserves visible screen and context.
+Original scene photo date: 2025-03-16
+Reconstruction timestamp: 2026-11-22 15:13:31
+Original photograph timestamp: Not independently verified
+Photograph status: Awaiting original image file
+
+
+Photograph: couch_tablet.jpg
+Evidence items: E-003
+Caption: Tablet on couch in adjacent sitting area; documents its position and cracked screen before handling.
+Original scene photo date: 2025-03-16
+Reconstruction timestamp: 2026-11-22 15:13:31
+Original photograph timestamp: Not independently verified
+Photograph status: Awaiting original image file
+
+
+Photograph: bookshelf_echo.jpg
+Evidence items: E-004
+Caption: Powered-on Amazon Echo on bookshelf; documents blue ring indicator and location.
+Original scene photo date: 2025-03-16
+Reconstruction timestamp: 2026-11-22 15:13:31
+Original photograph timestamp: Not independently verified
+Photograph status: Awaiting original image file
+
+
+Photograph: drawer_usb.jpg
+Evidence items: E-005
+Caption: SanDisk Ultra 64GB flash drive labelled Backup 2024 in top desk drawer among papers; documents discovery position and markings.
+Original scene photo date: 2025-03-16
+Reconstruction timestamp: 2026-11-22 15:13:31
+Original photograph timestamp: Not independently verified
+Photograph status: Awaiting original image file

@@ -1,0 +1,171 @@
+DIGITAL FORENSICS TRAINING CASE
+Case Number: 2025-03847
+Scenario: Residential burglary - home office
+Reported loss: Approximately $15,000
+Original simulated scene date: 2025-03-16
+Prepared by: learner
+Recreated: 2026-11-22 15:13:31
+Status: TRAINING SIMULATION - NOT REAL EVIDENCE
+
+
+DEVICE DOCUMENTATION AND PRESERVATION
+
+
+--------------------------------------------------
+ITEM: E-001
+Description: Desktop computer
+Make/Model: Not independently verified
+Serial Number: Not visible without manipulation
+Location Found: Home office desk
+
+CURRENT STATE
+Power: On
+Screen Display: Financial spreadsheet with account numbers and transaction amounts
+LED Indicators: None observed
+
+NETWORK CONNECTIONS
+Ethernet (verify against original report)
+
+PHYSICAL CONDITION
+No damage documented
+Cables attached: Not confirmed from available sources
+Peripherals: Not fully documented
+Case/Cover: Not documented
+
+PRESERVATION DECISION
+Keep powered on; photograph screen; consult forensic examiner for live acquisition
+
+REASONING
+RAM, running processes, open files and encryption keys may be lost on shutdown.
+
+PHOTOGRAPHS TAKEN
+scene_overview.jpg, desk_closeup.jpg
+See photograph register for individual captions.
+
+
+--------------------------------------------------
+ITEM: E-002
+Description: Smartphone
+Make/Model: Not independently verified
+Serial Number: Not visible without manipulation
+Location Found: On desk next to keyboard
+
+CURRENT STATE
+Power: On; Locked
+Screen Display: Locked screen showing time, text-message and email notifications
+LED Indicators: None observed
+
+NETWORK CONNECTIONS
+Wi-Fi and Bluetooth
+
+PHYSICAL CONDITION
+No damage documented
+Cables attached: Not confirmed from available sources
+Peripherals: Not fully documented
+Case/Cover: Not documented
+
+PRESERVATION DECISION
+Photograph lock screen; isolate in suitable Faraday enclosure
+
+REASONING
+Network connectivity creates remote-wipe risk; notifications may disappear.
+
+PHOTOGRAPHS TAKEN
+scene_overview.jpg, desk_closeup.jpg
+See photograph register for individual captions.
+
+
+--------------------------------------------------
+ITEM: E-003
+Description: Tablet
+Make/Model: Not independently verified
+Serial Number: Not visible without manipulation
+Location Found: Couch in adjacent sitting area
+
+CURRENT STATE
+Power: Off
+Screen Display: Off; no active display
+LED Indicators: None observed
+
+NETWORK CONNECTIONS
+Unknown (device off)
+
+PHYSICAL CONDITION
+Cracked screen
+Cables attached: Not confirmed from available sources
+Peripherals: Not fully documented
+Case/Cover: Not documented
+
+PRESERVATION DECISION
+Keep powered off; use padded anti-static packaging and evidence seal
+
+REASONING
+Powered-off storage is relatively stable; padding protects the cracked screen.
+
+PHOTOGRAPHS TAKEN
+scene_overview.jpg, couch_tablet.jpg
+See photograph register for individual captions.
+
+
+--------------------------------------------------
+ITEM: E-004
+Description: Amazon Echo smart speaker
+Make/Model: Amazon Echo; exact model unverified
+Serial Number: Not visible without manipulation
+Location Found: Bookshelf across from desk
+
+CURRENT STATE
+Power: On
+Screen Display: N/A (no display)
+LED Indicators: Blue ring light active; standby mode reported
+
+NETWORK CONNECTIONS
+Not independently verified
+
+PHYSICAL CONDITION
+No damage documented
+Cables attached: Not confirmed from available sources
+Peripherals: Not fully documented
+Case/Cover: Not documented
+
+PRESERVATION DECISION
+Keep powered on pending examiner guidance; photograph indicator
+
+REASONING
+Local state may change and relevant cloud records may be subject to retention limits.
+
+PHOTOGRAPHS TAKEN
+scene_overview.jpg, bookshelf_echo.jpg
+See photograph register for individual captions.
+
+
+--------------------------------------------------
+ITEM: E-005
+Description: USB flash drive labelled Backup 2024
+Make/Model: SanDisk Ultra 64GB (visible in simulated photograph)
+Serial Number: Not visible without manipulation
+Location Found: Top desk drawer beneath papers
+
+CURRENT STATE
+Power: N/A (not connected)
+Screen Display: N/A (no display on this device)
+LED Indicators: None observed
+
+NETWORK CONNECTIONS
+None; no network line in report
+
+PHYSICAL CONDITION
+No damage documented
+Cables attached: Not confirmed from available sources
+Peripherals: Not fully documented
+Case/Cover: Not documented
+
+PRESERVATION DECISION
+Place in suitable protective paper evidence envelope; seal and label
+
+REASONING
+Nonvolatile storage; do not connect to an ordinary computer.
+
+PHOTOGRAPHS TAKEN
+scene_overview.jpg, desk_closeup.jpg, drawer_usb.jpg
+See photograph register for individual captions.

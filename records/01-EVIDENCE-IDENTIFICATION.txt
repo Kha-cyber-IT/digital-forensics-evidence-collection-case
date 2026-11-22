@@ -1,0 +1,61 @@
+DIGITAL FORENSICS TRAINING CASE
+Case Number: 2025-03847
+Scenario: Residential burglary - home office
+Reported loss: Approximately $15,000
+Original simulated scene date: 2025-03-16
+Prepared by: learner
+Recreated: 2026-11-22 15:13:31
+Status: TRAINING SIMULATION - NOT REAL EVIDENCE
+
+
+EVIDENCE IDENTIFICATION REGISTER
+
+
+ITEM: E-001
+Description: Desktop computer
+Make/Model: Not independently verified
+Location Found: Home office desk
+Power State: On
+Network Status: Ethernet (verify against original report)
+Collection Priority: 1 - Immediate
+Reasoning: RAM, running processes, open files and encryption keys may be lost on shutdown.
+
+
+ITEM: E-002
+Description: Smartphone
+Make/Model: Not independently verified
+Location Found: On desk next to keyboard
+Power State: On; Locked
+Network Status: Wi-Fi and Bluetooth
+Collection Priority: 2 - Urgent
+Reasoning: Network connectivity creates remote-wipe risk; notifications may disappear.
+
+
+ITEM: E-003
+Description: Tablet
+Make/Model: Not independently verified
+Location Found: Couch in adjacent sitting area
+Power State: Off
+Network Status: Unknown (device off)
+Collection Priority: 3 - Standard
+Reasoning: Powered-off storage is relatively stable; padding protects the cracked screen.
+
+
+ITEM: E-004
+Description: Amazon Echo smart speaker
+Make/Model: Amazon Echo; exact model unverified
+Location Found: Bookshelf across from desk
+Power State: On
+Network Status: Not independently verified
+Collection Priority: 2 - Urgent
+Reasoning: Local state may change and relevant cloud records may be subject to retention limits.
+
+
+ITEM: E-005
+Description: USB flash drive labelled Backup 2024
+Make/Model: SanDisk Ultra 64GB (visible in simulated photograph)
+Location Found: Top desk drawer beneath papers
+Power State: N/A (not connected)
+Network Status: None; no network line in report
+Collection Priority: 3 - Standard
+Reasoning: Nonvolatile storage; do not connect to an ordinary computer.

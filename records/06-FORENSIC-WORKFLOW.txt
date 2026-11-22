@@ -1,0 +1,19 @@
+DIGITAL FORENSICS WORKFLOW - TRAINING NOTES
+
+1. Secure scene and control access.
+2. Document surroundings before touching devices.
+3. Identify all digital evidence sources.
+4. Record current power and network states.
+5. Prioritize volatile evidence, especially live RAM.
+6. Photograph active displays, notifications and indicators.
+7. Make device-specific preservation decisions.
+8. Document collection, packaging and seals.
+9. Record every custody handoff.
+10. Acquire forensic images using approved procedures.
+11. Calculate and verify cryptographic hashes.
+12. Analyze working copies rather than original evidence.
+13. Maintain examiner notes and produce a factual report.
+
+WARNING
+This case demonstrates initial identification and preservation.
+No actual forensic acquisition or analysis has been performed.
