@@ -292,3 +292,11 @@ The exercise provides practical experience in the initial stages of digital fore
 **Case:** 2025-03847  
 **Category:** Digital Forensics / Evidence Collection and Preservation  
 **Status:** Educational simulation
+
+## Related Forensic Investigations
+
+[Mobile Device Forensics Investigation](https://github.com/Kha-cyber-IT/mobile-device-forensics-investigation)
+
+A complementary simulated investigation covering smartphone
+artefact examination, GPS metadata, SQLite communication
+analysis and logically deleted messages.
